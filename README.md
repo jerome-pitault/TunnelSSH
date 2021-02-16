@@ -1,2 +1,2 @@
 # TunnelSSH
-IOS app using openSSH to make tunnels in the background
+iOS app using openSSH to make tunnels in the background
